@@ -16,9 +16,10 @@ print("amazing)
       print("amazing"
             print("nmbr")
 
-            You discover compile time errors by running the module and noticing any lines of code that have syntax error messages.
+   '''
+You discover compile time errors by running the module and noticing any lines of code that have syntax error messages.
             You discover run time errors by noticing that the result you wanted did not come out correct.
-
+'''
             print("Como estas?")
 
             print(1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10)
@@ -44,5 +45,3 @@ print("amazing)
             print("******* **********  *       *  ")
 
             
-            
-
